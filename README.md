@@ -1,3 +1,11 @@
-# sampath.github.io
+# Data Scientist
 
-### TESTING FEW THINGS
+### Education
+Master of Engineering
+Bachelor of Engineering
+### Work Experience 
+Triparambh Technologies
+Fractal Analytics
+Oracle
+Yahoo!
+Knowledge Based Systems Inc.
