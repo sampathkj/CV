@@ -3,6 +3,7 @@
 ### Education
 - Master of Engineering
 - Bachelor of Engineering
+
 ### Work Experience 
 - Triparambh Technologies
 - Fractal Analytics
