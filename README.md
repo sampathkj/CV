@@ -1,7 +1,6 @@
 # Data Product and Analytics Leader
 ## Summary
 Hands-on technologist with track record of building analytics and data science solutions for complex, cross-functional business problems. 18 years of research, consulting, product development and management experience
-
 ## Work Experience 
 ### Founder, Triparambh Technologies
 ##### Nov 2018 to Jun 2023 at Bangalore
