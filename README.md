@@ -1,4 +1,4 @@
-# Data Product and Analytics Leader
+
 ## Summary
 Hands-on technologist with track record of building analytics and data science solutions for complex, cross-functional business problems. 18 years of research, consulting, product development and management experience
 ## Work Experience 
