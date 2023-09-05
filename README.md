@@ -8,12 +8,14 @@ Tripārambh is an AI-based intelligent travel assistant that helps travelers eff
 - Spearheaded product development, UX/UI design, and data science
 - Successfully launched Tripārambh mobile app on Google Play Store and followed up with app updates
 - Developed computer vision models to assess image quality, detect duplicates and select best shots
+
 ### Director Product Development, Fractal Analytics
 ##### Feb 2016 to Nov 2016 at Bangalore
 Led design and development of Crux, a natural-language based B2B SaaS Business Intelligence platform
 - Developed ontology and setup knowledge graphs to prototype various use cases for Crux
 - Worked closely with data scientists to apply and integrate NLP/NLU algorithms into Crux
 - Spawned pilot engagements by pitching Crux to potential customers and help sign up first customer
+
 ### Director of Analytics, Fractal Analytics
 ##### Aug 2014 to Feb 2016 at Mumbai
 Led end-to-end delivery of consumer and marketing analytic solutions for fortune 100 CPG company – efficiently managing a service worth $2 million in revenue and growing it 20% over a two year period
